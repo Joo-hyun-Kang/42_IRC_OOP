@@ -1,5 +1,6 @@
 # 42 プロジェクト  
 **<ft_irc> (参加者: jokang、taehykim、mikim3, )**  
+<img width=80% height=80% alt="irc_photo" src="https://github.com/user-attachments/assets/71768bd8-b3e6-459e-b992-5f1986eb1050">
 
 <br>
 
